@@ -1,9 +1,9 @@
 using NUnit.Framework;
 using PlingPlangPlong;
 
-namespace PlingPlangPlong_Tests
+namespace PlingPlangPlong.Tests
 {
-    public class Tests
+    public class PlingPlangPlong_Object_Tests
     {
         [TestCase(-3)]
         [TestCase(6)]
